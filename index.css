@@ -29,10 +29,10 @@ p{
     ;
 }
 .recipes{
-    width: 400px;
+    width:fit-content;
     text-align: justify;
     margin: 20px;
-    padding: 10px;
+    padding: 20px;
 }
 ul li h2{
     font-size: 16px;
